@@ -1,0 +1,58 @@
+body{
+  background-color: rgb(138, 138, 75);
+}
+.nvi{
+    margin-left: 260px;
+    margin-top: -380px;
+}
+.main{
+    margin-left: 460px;
+    margin-top: -380px;
+}
+.centre{
+    margin-left: 650px;
+    margin-top: -370px; 
+}
+.picture{
+    border-radius: 15px 15px 15px 15px;
+    width: 130px;
+    height: 120px;
+  position: absolute;
+  top:50px ;
+  left:900px ; 
+}
+.pict{
+    border-radius: 15px 15px 15px 15px;
+    width: 130px;
+    height: 120px;
+  position: absolute;
+  top:200px ;
+  left:900px ; 
+}
+.pictu{
+    border-radius: 15px 15px 15px 15px;
+    width: 130px;
+    height: 120px;
+  position: absolute;
+  top:340px ;
+  left:900px ; 
+}
+.visul{
+    position: absolute;
+  top:70px ;
+  left:1050px ; 
+}
+.case{
+    position: absolute;
+    top:200px ;
+    left:1050px ; 
+}
+.for{
+
+    position: absolute;
+    top:350px ;
+    left:1050px ; 
+
+
+
+}

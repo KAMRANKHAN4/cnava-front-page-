@@ -1,0 +1,42 @@
+body{
+    background-color: rgb(138, 138, 75);
+}
+.teacher{
+    position: absolute;
+    top:10px ;
+    left:190px ;
+}
+.batter1{
+    width: 140px;
+    position: absolute;
+    top:210px ;
+    left:290px ;
+}
+.batter2{
+width: 160px;
+position: absolute;
+top:50px ;
+left:290px ;
+}
+.cas{
+    margin-top: -240px;
+    margin-left: 650px;
+}
+.lms{
+    margin-top: -100px;
+    margin-left: 650px;
+}
+.ctr{
+    border-radius: 15px 15px 15px 15px;
+height: 200px;
+    width: 250px;
+ position: absolute;
+ top:100px ;
+ left:900px ;
+}
+.become{
+    
+    position: absolute;
+ top:310px ;
+ left:900px ;
+}

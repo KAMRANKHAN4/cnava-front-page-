@@ -1,0 +1,44 @@
+
+body{
+    background-color: rgb(138, 138, 75);
+}
+.blog{
+position: absolute;
+top:10px ;
+left:150px ;
+}
+.desing{
+    position: absolute;
+    top: 120px;
+    left:150px ;
+}
+.event{
+    position: absolute;
+    top:210px ;
+    left: 150px; ;
+}
+.pic{
+    position: absolute;
+    top:70px ;
+    border-radius: 15px 15px 15px 15px;
+    left: 550px; ;
+    width: 110px;
+}
+.help{
+    position: absolute;
+    top:70px ;
+    left: 680px; 
+}
+.kkk{
+    position: absolute;
+    top:40px ;
+    border-radius: 15px 15px 15px 15px;
+    left: 970px; ;
+    height: 270px;
+    width: 370px;
+}
+.gg{
+    position: absolute;
+    top:320px ;
+    left: 1000px; 
+}

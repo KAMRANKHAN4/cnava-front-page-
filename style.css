@@ -1,0 +1,641 @@
+ body{
+height: 1500px;
+
+} 
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap'); 
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins';
+}
+
+.menu {
+    /* width: 50px; */
+    font-size: 30px;
+    margin-top: 8px;
+    margin-left: 10px;
+
+}
+
+.nav {
+    display: flex;
+    gap: 30px;
+    padding: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+}
+
+.canva {
+    width: 80px;
+}
+
+.navi {
+    /* gap: 20px; */
+    /* outline: none; */
+}
+.desing:hover{
+color: orange;
+cursor: pointer;
+
+}
+.busnes:hover{
+    color: orange;
+    cursor: pointer;
+}
+.education:hover{
+    color: orange;
+    cursor: pointer;
+}
+.price:hover{
+    color: orange;
+    cursor: pointer;
+}
+.learn:hover{
+    color: orange;
+    cursor: pointer;
+}
+
+.desing {
+    margin-top: 11px;
+    height: 30px;
+    border: none;
+    width: 120px;
+    text-decoration: none;
+color: black;
+}
+
+.busnes {
+    margin-top: 11px;
+    /* gap: 30px; */
+    height: 30px;
+    border: none;
+    width: 80px;
+    text-decoration: none;
+    color: black;
+
+}
+
+.education {
+    margin-top: 11px;
+    width: 80px;
+    border: none;
+    text-decoration: none;
+color: black;
+}
+
+.price {
+    margin-top: 11px;
+    height: 30px;
+    border: none;
+    width: 120px;
+    text-decoration: none;
+color: black;
+}
+
+.learn {
+    margin-top: 11px;
+    color: black;
+    height: 30px;
+    border: none;
+    width: 80px;
+    text-decoration: none;
+
+
+}
+
+.computer {
+    position: absolute;
+    top: 27px;
+    right: 270px;
+    font-size: 20px;
+}
+
+.setting {
+    position: absolute;
+    top: 25px;
+    left: 1110px;
+    font-size: 28px;
+
+
+}
+
+.selet {
+    position: absolute;
+    top: 25px;
+    right: 90px;
+    border-radius: 15px 15px 15px 15px;
+    height: 28px;
+    background-color: blue;
+
+}
+
+.main3 {
+
+    width: 45px;
+    height: 40px;
+    background-color: rgb(0, 0, 0);
+    border-radius: 30px 30px 30px 30px;
+    position: absolute;
+    top: 20px;
+    right: 20px;
+
+    /* margin-top: 5px; */
+    /* margin-top: 11px;  */
+    /* margin-left: 160px; */
+}
+
+.main4 {
+    background-color: rgb(255, 221, 221);
+    width: 300px;
+    height: 570px;
+    margin-top: -40px;
+
+    
+}
+
+.color {
+    display: flex;
+    width: 40px;
+    height: 40px;
+    background-color: rgb(91, 45, 255);
+    border-radius: 30px 30px 30px 30px;
+    margin-top: 50px;
+    margin-left: 20px;
+
+}
+
+.heading {
+    margin-left: 60px;
+}
+
+.none {
+    /* background-color: rgb(181, 181, 255); */
+    margin-top: 10px;
+    list-style: none;
+}
+
+.image {
+    /* font-size: 29px; */
+    margin-top: 5px;
+    margin-left: 14px;
+}
+
+.canvas {
+    height: 30px;
+    width: 120px;
+    border-radius: 10px 10px 10px 10px;
+    margin-top: 10px;
+    margin-left: 60px;
+}
+.cust{
+position: absolute;
+
+left:1200px ;
+
+}
+.uplo{
+    position: absolute;
+    top:1200 ;
+    left:1200px;
+}
+
+.home {
+    margin-top: 20px;
+    margin-left: 60px;
+}
+.template:hover{
+    color: orange;
+}
+
+.template {
+    margin-top: 20px;
+    margin-left: 60px;
+    cursor: pointer ;
+
+}
+
+.project {
+    margin-top: 20px;
+    margin-left: 60px;
+}
+
+.tool {
+    margin-left: 70px;
+    margin-top: 18px;
+
+}
+
+.brand {
+    margin-top: 15px;
+    margin-left: 60px;
+
+}
+
+.content {
+    margin-top: 18px;
+    margin-left: 60px;
+}
+
+.apps {
+    margin-top: 18px;
+    margin-left: 60px;
+}
+
+.smart {
+    margin-top: 18px;
+    margin-left: 60px;
+}
+
+.team {
+    margin-top: 75px;
+    margin-left: 60px;
+
+}
+
+.center {
+    background-color: rgb(111, 0, 255);
+    height: 250px;
+    width: 1030px;
+    border-radius: 15px 15px 15px 15px;
+    margin-top: -565px;
+    margin-left: 315px;
+
+
+
+}
+
+.WHAT {
+    margin-top: 10px;
+    margin-left: 180px;
+    color: aliceblue;
+}
+
+.text {
+    height: 40px;
+    width: 650px;
+    border-radius: 10px 10px 10px 10px;
+    margin-top: 26px;
+    margin-left: 130px;
+}
+
+.ul {
+    list-style-type: none;
+
+}
+
+.star {
+
+    width: 40px;
+    height: 40px;
+    margin-left: 240px;
+    position: absolute;
+    top: 215px;
+    left: 170px;
+
+
+
+}
+
+.date {
+    width: 32px;
+    position: absolute;
+    top: 218px;
+    left: 520px;
+
+
+}
+
+.com {
+    width: 32px;
+    position: absolute;
+    top: 218px;
+    left: 650px;
+}
+
+.file {
+    width: 32px;
+    position: absolute;
+    top: 218px;
+    left: 780px;
+}
+
+.vidio {
+    width: 32px;
+    position: absolute;
+    top: 218px;
+    left: 870px;
+}
+
+.mose {
+    width: 30px;
+    position: absolute;
+    top: 218px;
+    left: 960px;
+    /* margin-left: 310px; */
+}
+
+.munu {
+    width: 32px;
+    position: absolute;
+    top: 218px;
+    left: 1050px;
+}
+
+.for {
+    position: absolute;
+    top: 238px;
+    left: 400px;
+}
+
+.white {
+    position: absolute;
+    top: 238px;
+    left: 740px;
+}
+
+.present {
+    position: absolute;
+    top: 238px;
+    left: 490px;
+}
+
+.socail {
+    position: absolute;
+    top: 238px;
+    left: 620px;
+}
+
+.videos {
+    position: absolute;
+    top: 238px;
+    left: 860px;
+}
+
+.web {
+    position: absolute;
+    top: 238px;
+    left: 940px;
+}
+
+.more {
+    position: absolute;
+    top: 238px;
+    left: 1040px;
+}
+
+.gg {
+    position: absolute;
+    top: 360px;
+    left: 320px;
+}
+
+.head1 {
+    background-color: rgb(82, 79, 79);
+    cursor: pointer;
+    width: 200px;
+    height: 100px;
+    position: absolute;
+    top: 420px;
+    left: 340px;
+
+}
+
+.head2 {
+    background-color: rgb(82, 75, 75);
+    cursor: pointer;
+    width: 200px;
+    height: 100px;
+    position: absolute;
+    top: 420px;
+    left: 580px;
+
+}
+
+.head3 {
+    background-color: rgb(82, 79, 79);
+    cursor: pointer;
+    width: 200px;
+    height: 100px;
+    position: absolute;
+    top: 420px;
+    left: 820px;
+
+}
+
+.head4 {
+    background-color: rgb(78, 76, 76);
+    cursor: pointer;
+    width: 200px;
+    height: 100px;
+    position: absolute;
+    top: 420px;
+    left: 1060px;
+
+}
+
+.img1 {
+
+    width: 170px;
+    height: 80px;
+    position: absolute;
+    top: 10px;
+    left: 15px;
+}
+
+.img2 {
+
+    width: 170px;
+    height: 80px;
+    position: absolute;
+    top: 10px;
+    left: 15px;
+}
+
+.img3 {
+
+    width: 170px;
+    height: 80px;
+    position: absolute;
+    top: 10px;
+    left: 15px;
+}
+
+.img4 {
+
+    width: 170px;
+    height: 80px;
+    position: absolute;
+    top: 10px;
+    left: 15px;
+}
+
+.kam1 {
+    position: absolute;
+    top: 530px;
+    left: 350px;
+
+
+}
+
+.kam2 {
+    position: absolute;
+    top: 529px;
+    left: 590px;
+}
+
+.kam3 {
+    position: absolute;
+    top: 530px;
+    left: 815px;
+
+
+}
+
+.kam4 {
+    position: absolute;
+    top: 530px;
+    left: 1060px;
+}
+
+.space {
+    background-color: rgb(68, 27, 214);
+    height: 400px;
+    width: 1000px;
+    display: flex;
+    /* justify-content: center; */
+    margin-top: 300px;
+    margin-left: 200px;
+    border-radius: 10px 10px 10px 10px;
+    gap: 80px;
+}
+
+.comp {
+    width: 180px;
+    height: 180px;
+    margin-top: 70px;
+}
+
+.mm {
+    width: 170px;
+    height: 170px;
+    margin-top: 70px;
+}
+
+.templ {
+    width: 180px;
+    height: 180px;
+    margin-top: 70px;
+}
+
+.po {
+    width: 180px;
+    height: 180px;
+    margin-top: 70px;
+}
+
+.card {
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    align-items: center;
+    justify-self: center;
+    margin-top: 40px;
+}
+
+.card img {
+    width: 30px;
+}
+
+.big-card {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.the{
+    position: absolute;
+    top:680px;
+    left:400px ;
+}
+.bring{
+    cursor:  pointer ;
+    position: absolute;
+    top:930px ;
+    left:210px ;
+    color: aliceblue;
+  
+}
+.beautiful{
+position: absolute;
+color: aliceblue;
+top:930px ;
+left:450px ;
+
+}
+.get{
+    position: absolute;
+    top:930px ;
+    left:710px ;
+    color: aliceblue;
+}
+.video{
+    position: absolute;
+    top:930px ;
+    left:970px ;
+    color: aliceblue;
+}
+.recent{
+    position: absolute;
+    top:1100px ;
+    left:230px ;
+    
+}
+.set{
+    width: 190px;
+    position: absolute;
+    top:1190px ;
+    left:230px ;
+}
+.bat{
+    width: 190px;
+    position: absolute;
+    top:1190px ;
+    left:500px ;
+}
+.but{
+    width: 190px;
+    position: absolute;
+    top:1190px ;
+    left:800px ;
+}
+.car{
+    width: 290px;
+    position: absolute;
+    top:1190px ;
+    left:1040px ;
+}
+.milli{
+    position: absolute;
+    top:1350px ;
+    left:250px ;
+}.millio{
+    position: absolute;
+    top:1370px ;
+    left:520px ;
+}
+.mio{
+    position: absolute;
+    top:1370px ;
+    left:820px ;
+}
+.kamru{
+    position: absolute;
+    top:1370px ;
+    left:1150px ;
+}
+.wat{
+    position: absolute;
+    top:1110px ;
+    left:1150px ;
+    height: 30px;
+    width: 100px;
+}
+
